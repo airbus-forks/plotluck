@@ -1,5 +1,6 @@
 # Development version
 * Compatibility with ggplot 3.4.0 (#5 @cregouby)
+* improve robustness on variable names (#8 @Christophe-Regouby)
 
 # plotluck 1.1.1
 * Rerun roxygen2 for documentation format compliance
